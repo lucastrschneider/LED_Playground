@@ -7,7 +7,7 @@
 #include "dma.h"
 #include "utils.h"
 
-#define ADC_BUFFER_SIZE 360
+#define ADC_BUFFER_SIZE 120
 
 #define ADC1_CHANNELS 3
 
