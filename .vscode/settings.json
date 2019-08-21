@@ -21,4 +21,7 @@
         "files.trimTrailingWhitespace": false,
         "files.trimFinalNewlines": false,
     },
+    "files.associations": {
+        "mcu.h": "c"
+    },
 }
